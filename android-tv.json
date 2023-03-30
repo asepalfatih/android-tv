@@ -1,13 +1,13 @@
 {
   "googlevideos": [{
-    "category": "Google+",
+    "category": "Fakultas",
     "videos": [{
       "description": "Jon introduces Instant Upload with a few thoughts on how we remember the things that matter. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "Instant Upload",
-      "studio": "Google+"
+      "background": "https://drive.google.com/file/d/1sV40N7XZ19wENAdoCyYoEuCyz8qNGTVO/view?usp=share_link",
+      "title": "Ekonomi dan Bisnis",
+      "studio": "Fakultas"
     }, {
       "description": "With Google+ Instant Upload, every picture you take on your phone is instantly backed up to a private Google+ album. It's a simple way to make sure you never lose another memory.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4"],
