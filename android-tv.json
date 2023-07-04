@@ -33,95 +33,109 @@
   }, {
     "category": "Program Studi",
     "videos": [{
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Manajemen adalah program akademik yang fokus pada pengembangan keterampilan dan pengetahuan dalam bidang manajemen organisasi. Tujuan utama dari program ini adalah untuk melatih para mahasiswa menjadi pemimpin yang efektif dan terampil di berbagai bidang bisnis dan non-bisnis.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
         "title": "Manajemen",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Kewirausahaan adalah program akademik yang bertujuan untuk melatih dan mengembangkan jiwa kewirausahaan serta keterampilan bisnis yang diperlukan untuk memulai dan mengelola usaha yang sukses. Program ini memberikan pengetahuan mendalam tentang aspek-aspek kunci dalam berwirausaha, mulai dari perencanaan bisnis hingga strategi pemasaran dan manajemen operasional.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Balcony%20Toss.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Balcony%20Toss/bg.jpg",
         "title": "Kewirausahaan",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Bisnis Digital adalah program akademik yang dirancang untuk mempersiapkan mahasiswa dalam menguasai konsep, strategi, dan keterampilan yang diperlukan untuk beroperasi dan berhasil di era bisnis yang didorong oleh teknologi digital. Program ini menggabungkan elemen-elemen bisnis tradisional dengan pengetahuan tentang teknologi digital, e-commerce, dan inovasi digital.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Dance%20Search.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Dance%20Search/bg.jpg",
         "title": "Bisnis Digital",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Akuntansi adalah program akademik yang fokus pada pengembangan keterampilan dan pengetahuan dalam bidang akuntansi, pelaporan keuangan, pengauditan, dan analisis keuangan. Tujuan utama dari program ini adalah melatih para mahasiswa untuk menjadi profesional akuntansi yang kompeten dan memahami aspek-aspek penting dalam pengelolaan keuangan perusahaan.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation/bg.jpg",
         "title": "Akuntansi",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Arsitektur adalah program akademik yang mempersiapkan mahasiswa untuk menjadi arsitek yang terampil dan kreatif. Mahasiswa akan mempelajari desain arsitektur, konstruksi bangunan, perencanaan kota, pemodelan 3D, dan manajemen proyek. Mereka akan mengembangkan keterampilan dalam menggabungkan aspek estetika, fungsionalitas, dan keberlanjutan dalam desain bangunan.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Extra%20Spicy.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Extra%20Spicy/bg.jpg",
         "title": "Arsitektur",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Teknik Informatika fokus pada pengembangan perangkat lunak, sistem komputer, dan teknologi informasi. Mahasiswa akan mempelajari pemrograman komputer, desain antarmuka pengguna, basis data, keamanan informasi, jaringan komputer, dan kecerdasan buatan. Mereka akan mendapatkan pemahaman yang mendalam tentang pengembangan perangkat lunak dan aplikasi teknologi informasi.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Get%20Your%20Money's%20Worth.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Get%20Your%20Money's%20Worth/bg.jpg",
         "title": "Teknik Informatika",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Teknik Industri bertujuan untuk melatih mahasiswa dalam mengoptimalkan sistem dan proses produksi di industri. Mahasiswa akan mempelajari teknik manajemen operasi, perencanaan produksi, pemodelan dan simulasi sistem, analisis kinerja, manajemen rantai pasokan, dan ergonomi. Mereka akan mengembangkan keterampilan dalam meningkatkan efisiensi dan produktivitas di berbagai sektor industri.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Guitar%20Search.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Guitar%20Search/bg.jpg",
         "title": "Teknik Industri",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Teknik Lingkungan berkaitan dengan perlindungan dan pemulihan lingkungan. Mahasiswa akan mempelajari pengelolaan limbah, pengolahan air dan air limbah, kualitas udara, remediasi tanah, energi terbarukan, dan keberlanjutan lingkungan. Mereka akan mengembangkan keterampilan dalam merancang solusi teknis untuk mengurangi dampak negatif terhadap lingkungan dan mempromosikan praktik berkelanjutan.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Hangin'%20with%20the%20Google%20Search%20Bar.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Hangin'%20with%20the%20Google%20Search%20Bar/bg.jpg",
         "title": "Teknik Lingkungan",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Teknik Sipil mempersiapkan mahasiswa untuk menjadi insinyur sipil yang kompeten dalam merancang, membangun, dan memelihara infrastruktur fisik. Mahasiswa akan mempelajari struktur bangunan, jembatan, jalan, sistem drainase, pengelolaan proyek konstruksi, teknik geoteknik, dan transportasi. Mereka akan mengembangkan keterampilan dalam merencanakan, merancang, dan mengawasi proyek infrastruktur.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Hometown%20Caroling.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Hometown%20Caroling/bg.jpg",
         "title": "Teknik Sipil",
         "studio": "Program Studi"
+      },{
+        "description": "Program studi Teknik Hasil Pertanian fokus pada teknologi pengolahan produk pertanian. Mahasiswa akan mempelajari pemrosesan makanan, teknik pengepakan, pengawetan, pengolahan limbah pertanian, dan pengujian kualitas produk. Mereka akan mengembangkan keterampilan dalam mengoptimalkan proses pengolahan produk pertanian dan memastikan keamanan, kualitas, dan keberlanjutan produksi pertanian.",
+        "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Hometown%20Caroling.mp4"],
+        "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
+        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Hometown%20Caroling/bg.jpg",
+        "title": "Teknologi Hasil Pertanian",
+        "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Ekonomi Syariah adalah program akademik yang mengkaji prinsip-prinsip ekonomi berdasarkan nilai-nilai Islam. Mahasiswa mempelajari ekonomi Islam, sistem perbankan syariah, pasar modal syariah, asuransi syariah, serta prinsip dan praktik bisnis yang sesuai dengan hukum syariah. Program ini memberikan pemahaman yang mendalam tentang ekonomi berbasis etika dan keadilan sosial dalam konteks Islam.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Instant%20Music.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Instant%20Music/bg.jpg",
         "title": "Ekonomi Syariah",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Bimbingan Konseling dan Pendidikan Islam (BKPI) membekali mahasiswa dengan pengetahuan dan keterampilan untuk memberikan bimbingan dan konseling kepada individu atau kelompok dalam konteks pendidikan Islam. Mahasiswa akan mempelajari teori dan teknik konseling, manajemen kelas, pembinaan karakter, serta pendekatan yang berlandaskan nilai-nilai Islam dalam membantu siswa menghadapi tantangan sosial, emosional, dan akademik.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Pep%20Talk.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Pep%20Talk/bg.jpg",
-        "title": "Bimbingan dan dan konseling pendidikan islam",
+        "title": "Bimbingan konseling dan pendidikan islam",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Pendidikan Guru Sekolah Dasar (PGSD) mempersiapkan calon guru untuk mengajar di jenjang pendidikan dasar. Mahasiswa akan mempelajari teori dan metode pengajaran yang efektif untuk anak usia dini hingga tingkat sekolah dasar. Mereka akan mengembangkan pemahaman tentang psikologi perkembangan anak, kurikulum pendidikan dasar, evaluasi pembelajaran, manajemen kelas, serta keterampilan komunikasi dan interaksi dengan siswa.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Realtime%20Karaoke.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Realtime%20Karaoke/bg.jpg",
         "title": "Pendidikan Guru Sekolah Dasar",
         "studio": "Program Studi"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+        "description": "Program studi Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) fokus pada persiapan calon guru untuk mengajar dan mendidik anak usia dini (0-6 tahun). Mahasiswa akan mempelajari prinsip dan teori perkembangan anak usia dini, metode pembelajaran yang sesuai dengan tahap perkembangan anak, serta pendekatan pendidikan yang berpusat pada anak. Mereka juga akan belajar tentang pengelolaan program pendidikan anak usia dini, evaluasi pembelajaran, serta peran orang tua dan masyarakat dalam pendidikan anak.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Revis%20posterizes%20Stoudemire.mp4"],
         "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Revis%20posterizes%20Stoudemire/bg.jpg",
         "title": "Pendidikan Guru - Pendidikan Anak Usia Dini",
+        "studio": "Program Studi"
+      }, {
+        "description": "Program studi Hukum adalah program akademik yang mempersiapkan mahasiswa untuk memahami sistem hukum dan mengembangkan keterampilan dalam menerapkan prinsip-prinsip hukum dalam konteks sosial, ekonomi, dan politik. Mahasiswa akan mempelajari berbagai aspek hukum, termasuk hukum perdata, hukum pidana, hukum konstitusi, hukum administrasi negara, hukum internasional, dan banyak lagi.",
+        "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Revis%20posterizes%20Stoudemire.mp4"],
+        "card": "https://drive.google.com/uc?export=download&id=1JI4KTJOd6IVy0BWaF6kcaJqSAxWOIi65",
+        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Revis%20posterizes%20Stoudemire/bg.jpg",
+        "title": "Hukum",
         "studio": "Program Studi"
       }
     ]
